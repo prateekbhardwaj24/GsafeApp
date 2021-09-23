@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AllAudioLinksActivity">
+
+    <TextView
+        android:id="@+id/tab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_margin="20dp"
+        android:text="Tab on link to copy to clipboard"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Deactivate"
+        android:id="@+id/deactivate"
+        android:layout_below="@+id/tab"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:layout_below="@+id/deactivate"
+        android:id="@+id/instruction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Deactivate SOS contacts audio links"
+        android:textSize="12sp"
+        android:layout_centerHorizontal="true" />
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_below="@+id/instruction"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linkdRecy"/>
+
+</RelativeLayout>

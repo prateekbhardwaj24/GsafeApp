@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135094102312",
+    "firebase_url": "https://gsafe-28990-default-rtdb.firebaseio.com",
+    "project_id": "gsafe-28990",
+    "storage_bucket": "gsafe-28990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135094102312:android:0905b5ebadcee66dfb881d",
+        "android_client_info": {
+          "package_name": "com.allgsafe.gsafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135094102312-busvkabld1rhkphnnrcahkrrpv0og6i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSEFdjVYy5dlthnZr-mzfkGh___MtNAxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135094102312-busvkabld1rhkphnnrcahkrrpv0og6i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

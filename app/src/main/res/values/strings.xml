@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Gsafe</string>
+    <string name="sos">SOS Contacts</string>
+    <string name="add">Add Contacts</string>
+    <string name="show_location">All Audio Links</string>
+    <string name="your_audio">Recordings</string>
+    <string name="capture_image">Captured Image</string>
+    <string name="your_account">Profile</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="App_name_version">Gsafe V4.0</string>
+    <string name="version_name">Version 1.21.1.4</string>
+    <string name="By">By Gsafe Community</string>
+    <string name="help">Gsafe App</string>
+    <string name="Guide">In todays scenario, womens violence increasing particularly for intimate partner violence and sexual violence.
+In order to overcome this situation Gsafe community helps to reduce these violence by notifying friends and family members by sending surrounding audio and location of victim
+(current location, audio will be send every one minute and two minute respectively). </string>
+    <string name="How">After create account/signUp, You need to follow these steps given below-</string>
+    <string name="step1">First, Click on add contacts, Select desired contacts(who will get notification when you will be in trouble) which will shown in SOS Contacts</string>
+
+    <string name="step2">When you want to notify your SOS Contacts, Go To profile section, And switch on Activate SOS option </string>
+    <string name="step2_about">By doing this, SOS service will be activated.</string>
+    <string name="step3">When you are in trouble/emergency, Double click on volume button and phone will be vibrate.</string>
+    <string name="note">
+        <ul>
+            <li>
+                Your screen light should be on while pressing volume button
+            </li>
+        </ul>
+        </string>
+    <string name="note1">
+        <ul>
+             <li>
+                 Your current sms pack is applicable for performing these activities i.e- location and audio links.
+            </li>
+        </ul>
+    </string>
+    <string name="beforNote">After this activity, Your current location will be sent to your SOS Contacts and audio recording will start for 20 seconds. These activities repeat after one minute and two minute respectively.</string>
+    <string name="privcayPara">We are accessing following permissions from users for performing SOS functionality, All these information are kept secured under Gsafe community, We do not disclose these information with third parties apps and Gsafe do not use any third parties apps and library.</string>
+
+    <string name="contact1">
+        <ul>
+            <li>
+                Read/Write your contacts
+            </li>
+
+        </ul>
+    </string>
+    <string name="contact2">
+        <ul>
+            <li>
+                For notify your SOS Contacts.
+            </li>
+        </ul>
+    </string>
+
+    <string name="location1">
+        <ul>
+            <li>
+                Access approximate location(network-based).
+            </li>
+        </ul>
+    </string>
+    <string name="location2">
+        <ul>
+            <li>
+                Sending this location to SOS Contacts in foreground/background.
+            </li>
+        </ul>
+    </string>
+
+    <string name="microphone1">
+
+        <ul>
+            <li>
+                Record your audio
+            </li>
+        </ul>
+
+    </string>
+
+    <string name="microphone2">
+
+        <ul>
+            <li>
+                When SOS activities are performing in foreground.
+            </li>
+        </ul>
+
+    </string>
+    <string name="sms1">
+
+        <ul>
+            <li>
+                Write location and audio links in text.
+            </li>
+        </ul>
+
+    </string>
+
+    <string name="sms2">
+
+        <ul>
+            <li>
+               Send SOS message to SOS Contacts, When SOS activities are performing in background.
+            </li>
+        </ul>
+    </string>
+
+    <string name="storage1">
+
+        <ul>
+            <li>
+                Read the contents of your shared SOS messages.
+            </li>
+        </ul>
+    </string>
+    <string name="other2">
+        <ul>
+            <li>
+                Use volume button for performing activities i.e- audio and location.
+            </li>
+        </ul>
+    </string>
+    <string name="other1">
+        <ul>
+            <li>
+                Vibrating your phone when volume button pressed twice.
+            </li>
+        </ul>
+    </string>
+    <string name="other3">
+        <ul>
+            <li>
+                Internet connection should be available to perform all activities.
+            </li>
+        </ul>
+    </string>
+    <string name="home">Read instruction carefully from Help section</string>
+    <string name="switch1">Switch on Activate SOS only when you are in trouble, Switch off when you are not using SOS Service.</string>
+</resources>
